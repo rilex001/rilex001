@@ -1,10 +1,10 @@
 ### Hi there, I'm Nikola  👋
 
 ## I'm Full stack javascript Developer, and computer science student!
-- 🔭 I’m currently working on a MERN Project !
+- 🔭 I’m currently working on a PERN Project !
 - 🌱 I’m currently learning NodeJS 
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2020 Goals: Complete Mern Project
+- 🥅 2020 Goals: Complete Pern Project
 - ⚡ Fun fact: I love to mountain climbing and running
 
 ### Connect with me:
