@@ -1,10 +1,9 @@
 ### Hi there, I'm Nikola  👋
 
 ## I'm Full stack javascript Developer, and computer science student!
-- 🔭 I’m currently working on a PERN Project !
-- 🌱 I’m currently learning NodeJS 
+- 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2020 Goals: Complete Pern Project
+- 🥅 2021 Goals: Complete  Project
 - ⚡ Fun fact: I love to mountain climbing and running
 
 ### Connect with me:
