@@ -1,10 +1,6 @@
 ### Hi there, I'm Nikola  👋
 
 ## Javascript Developer, and computer science student!
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate with other developer
-- 🥅 2022 Goals: Complete  Project
-- ⚡ Fun fact: I love to mountain climbing and running
 
 ### Connect with me:
 
